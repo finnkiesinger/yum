@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609645772639",
+    "project_id": "yum-recipe-3704f",
+    "storage_bucket": "yum-recipe-3704f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609645772639:android:6fb8e78c94edf5a30d00ea",
+        "android_client_info": {
+          "package_name": "com.finnkiesinger.yum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609645772639-u85t4s9p7s73bo5acn1a19advepe0o5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7t-GOM4FPIyc3a9xn3-aFeErYcLp98U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609645772639-u85t4s9p7s73bo5acn1a19advepe0o5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
